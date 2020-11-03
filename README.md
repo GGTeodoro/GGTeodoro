@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey, I'm Xablau!
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey, I'm Gustavo Teodoro!
 
 <p><em>Software Developer, at <a href="https://github.com/betrybe"> Trybe </a> <img
       src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
