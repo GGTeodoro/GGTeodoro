@@ -2,7 +2,7 @@
 
 ## Hello There, I'm Gustavo! 🤘
  🌍 Global citizen living in Brazil!\
- 📷 Gamer the free time...
+ 📷 A gamer in the free time...
 ### 💻 Full-Stack Javascript Developer and playing with Python: 
 
 #### Languages
