@@ -20,7 +20,7 @@
 #### Web Scrape
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 #### Graduations
-- Civil Engineering - UFMG(Universidade Federal de Minas Gerais)
+- Mechanic Engineering - CEFET-MG
 - Trybe
 #### Currently working at
 - Cayama Marketplace
