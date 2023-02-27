@@ -23,8 +23,7 @@
 - Mechanic Engineering - CEFET-MG
 - Trybe
 #### Currently working at
-- Cayama Marketplace
-- Looking for a job
+- Accenture
 
   
 #### Find me
