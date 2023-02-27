@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ggteodoro&show_icons=tru&theme=nightowl" alt="GGTeodor's status" align="right" />
 
-## Hello There, I'm Gustavo! 🤘
+## Hello There, I'm Gustavo!
  🌍 Global citizen living in Brazil!\
  📷 A gamer in the free time...
 ### 💻 Full-Stack Javascript Developer and playing with Python: 
